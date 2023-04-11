@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Lupova19\ListInputOutput\Spisaci\bin\Debug\Spisaci.exe.config
+C:\Users\Admin\Desktop\Lupova19\ListInputOutput\Spisaci\bin\Debug\Spisaci.exe
+C:\Users\Admin\Desktop\Lupova19\ListInputOutput\Spisaci\bin\Debug\Spisaci.pdb
+C:\Users\Admin\Desktop\Lupova19\ListInputOutput\Spisaci\obj\Debug\Spisaci.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Lupova19\ListInputOutput\Spisaci\obj\Debug\Spisaci.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Lupova19\ListInputOutput\Spisaci\obj\Debug\Spisaci.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Lupova19\ListInputOutput\Spisaci\obj\Debug\Spisaci.exe
+C:\Users\Admin\Desktop\Lupova19\ListInputOutput\Spisaci\obj\Debug\Spisaci.pdb
